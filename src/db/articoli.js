@@ -11,5 +11,5 @@ const AppleProducts = [
   "Apple TV 4K",
 ];
 
-// Export AppleProducts array
+// Esporta l'array
 export default AppleProducts;
